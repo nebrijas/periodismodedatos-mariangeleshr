@@ -54,3 +54,5 @@ if(respuesta == 's'):
 
 else:
   print('¡Vaya qué pena! Hasta la próxima')
+
+  ` ` `
