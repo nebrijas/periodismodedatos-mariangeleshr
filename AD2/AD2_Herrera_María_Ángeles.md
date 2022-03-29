@@ -56,3 +56,4 @@ else:
   print('¡Vaya qué pena! Hasta la próxima')
 
   ``` 
+^[Enlace al scrapping](https://github.com/nebrijas/periodismodedatos-mariangeleshr/blob/main/AD2/scraping(1).ipynb)
