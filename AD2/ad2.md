@@ -1,4 +1,5 @@
 # Actividad dirigida 2
+El objetivo de la actividad dirigida 2 es realizar un análisis al código en bruto de un ejercicio realizado previamente, el cual se basa en la puesta en marcha del web scraping de una URL determinada. Mediante el análisis identificamos las principales variables, bucles y acciones a realizar para obtener los datos de la tabla de los Juegos Olímpicos de 2020. En el estudio se ha utilizado el lenguaje markdown para explicar el desarrollo del juego línea a línea. Este ejercicio ha servido para conocer en profundidad las funciones principales de las etiquetas utilizadas.
 
 ```
 
